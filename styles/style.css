@@ -9,3 +9,8 @@
 .logo-img {
     height: 70px;    
 }
+
+.profile-pic-post{
+    height: 30px;
+    border-radius: 16px;
+}
