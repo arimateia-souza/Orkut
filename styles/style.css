@@ -14,3 +14,18 @@
     height: 30px;
     border-radius: 16px;
 }
+
+.logo{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    height: 10rem;
+}
+
+.destaque {
+    color:fuchsia;
+    
+}
+
+.dados {
+    margin-top: 200px;
+}
